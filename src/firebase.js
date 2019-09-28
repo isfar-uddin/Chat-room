@@ -3,12 +3,12 @@ import 'firebase/database';
 import 'firebase/auth'
 
 const config = {
-    apiKey : 'AIzaSyDuXUQuwKexaAk9ZfBAhUH-OsGW4KBdNVM',
-    authDomain:'chat-room-ee9e6.firebaseapp.com',
-    databaseURL :'https://chat-room-ee9e6.firebaseio.com',
-    projectId:'chat-room-ee9e6',
-    storageBucket:'chat-room-ee9e6.appspot.com',
-    messagingSenderId:'540825649704'
+    apiKey : 'AIzaSyDj4UvFniA1xCMhw-1JheDWWEhnfvT_DFk',
+    authDomain:'chat-room-6240a.firebaseapp.com',
+    databaseURL :'https://chat-room-6240a.firebaseio.com',
+    projectId:'chat-room-6240a',
+    storageBucket:'chat-room-6240a.appspot.com',
+    messagingSenderId:'244262667223'
 };
 
 firebase.initializeApp(config);

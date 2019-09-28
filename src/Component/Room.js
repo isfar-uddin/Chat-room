@@ -76,7 +76,7 @@ class Room extends React.Component {
                     ))}
                 </div>
                 <form className="send-form" onSubmit={e => this.sendMessage(e)}>
-                    <input className="message-field" name="message" type="text" />
+                    <input className="message-field" name="message" type="text" placeholder="Type text and press enter to send message" />
                 </form>
             </div>
         );
